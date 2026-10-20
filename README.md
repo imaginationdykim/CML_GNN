@@ -32,7 +32,7 @@ This repository provides Python codes for tracking simulated combinatorial multi
 
 This repository is for combinatoric multicolor tracking using GNN approach introduced in the following paper:
 
-[Dongyoon Kim et al. "High Throughput Tracking of Nanoparticle-Cell Interactions Using Combinatorial Multicolor Labeling and Graph Neural Networks."]
+[Dongyoon Kim et al. "Integrating multicolor labeling and graph learning to track nanoparticles from membrane binding to lysosomal delivery."]
 
 
 ---
