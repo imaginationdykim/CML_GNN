@@ -1,5 +1,5 @@
 
-# High Throughput Tracking of Nanoparticle-Cell Interactions Using Combinatorial Multicolor Labeling and Graph Neural Networks
+# Integrating multicolor labeling and graph learning to track nanoparticles from membrane binding to lysosomal delivery
 
 <p align="center">
   <img src="assets/GTvsGNN.gif" width='600'>
